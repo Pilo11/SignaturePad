@@ -8,6 +8,7 @@ using Android.Views;
 #elif __IOS__
 using CoreGraphics;
 using UIKit;
+using ObjCRuntime;
 #elif WINDOWS_PHONE
 using System.Windows;
 using System.Windows.Controls;
